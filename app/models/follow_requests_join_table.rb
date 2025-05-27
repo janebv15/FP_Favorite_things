@@ -1,0 +1,2 @@
+class FollowRequestsJoinTable < ApplicationRecord
+end
